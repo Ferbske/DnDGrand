@@ -1,0 +1,1 @@
+Court wizard in [[Gamblion]]. Was in the catacombs of [[Gamblion]] doing research for [[The Empire]]. 

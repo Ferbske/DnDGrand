@@ -1,0 +1,1 @@
+Hexagonal temple in [[Dwarven Hold]].

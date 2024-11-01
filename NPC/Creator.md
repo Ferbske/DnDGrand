@@ -1,0 +1,1 @@
+Court wizard of mister [[Gamblion]] himself in his era. The father of [[Terilin]].

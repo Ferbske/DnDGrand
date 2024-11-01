@@ -1,0 +1,1 @@
+Someone we appointed as a leader for [[Andora]] to recover it from the disaster with the Dracohydra. He is not loyal because he has a side-eye for money. He is after some pieces of land in the inner city.

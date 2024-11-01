@@ -1,0 +1,1 @@
+Has the sword of the [[Hero of the sword]].

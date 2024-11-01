@@ -1,0 +1,1 @@
+Emperor of the ancient [[Old Empire]]
