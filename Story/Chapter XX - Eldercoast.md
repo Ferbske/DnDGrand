@@ -104,3 +104,5 @@ In the courthouse [[Oksana]] does detect thoughts on [[Lady Elowen Frostwind]] a
 TODO - Nico needs to tell us what was the loot exactly.
 TODO - lvl up
 TODO - Recontainer the waterskin of corrupted blood
+TODO - Raid [[Lord Talian Brightblade]] house
+TODO - Raid [[Lady Elowen Frostwind]] house
