@@ -6,4 +6,4 @@
 [[Atrocious]] - Rick - Plasmoid - Rogue
 [[Elisabeth]] - Imke - Half-elf - Fighter
 [[Nareau]] - Ruud - Bard
-[[Oksana]] - Oksana - Human - Ranger
+[[Lemuru]] - Oksana - Human - Ranger
