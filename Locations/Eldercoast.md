@@ -3,11 +3,11 @@ One of the barones.
 ------
 Nobles:
 [[Narak]]
-[[Lord Talian Brightblade]]
-[[Lady Amara Starfall]]
-[[Lady Elowen Frostwind]]
-[[Lord Galladorn Emberwind]]
-[[Lady Seraphina Silverthorn]]
+[[Lord Thalion Brightblade]] - Dead
+[[Lady Amara Starfall]] - Alive
+[[Lady Elowen Frostwind]] - Dead
+[[Lord Galladorn Emberwind]] - Dead by Elowen
+[[Lady Seraphina Silverthorn]] - Alive
 
 -----
 NPC:

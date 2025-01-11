@@ -1,6 +1,6 @@
 Possible suspects other then [[Narak]]
 
-[[Lord Talian Brightblade]]:
+[[Lord Thalion Brightblade]]:
 	Suspicious
 	Wants the [[Evidense Journal]]
 	Is related to [[Mysterious hooded man]] of a thieves guild
