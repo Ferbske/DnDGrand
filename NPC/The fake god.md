@@ -1,0 +1,1 @@
+Everytime anyone that praises this god is asked for detailed information their minds go blank and continues the conversation they are in.
