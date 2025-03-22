@@ -25,4 +25,25 @@ The crossroad room had a secret door which is air sealed. After removing some se
 	4= Left going down
 	5= Straight goes up
 [[Caehanna]] and [[Terilin]] also went on the ice to got to direct 5=. Upon reaching the middle 3 shadows came out of the floor which looked like exact copies of [[Atrocious]], [[Caehanna]] and [[Terilin]]. We fought 3 clones of us that looked shadowy.
-  
+
+4= We entered this corridor and it lead to a steel door with engraved monsters and knight fighting eachother. It is extremly cold here. Monsters are minotaurs, gryphons and such. It looks like a battlefield, an army against a kinds of manner of creatures. It has mountains behind the creatures. It seems like the army is from the [[Old Empire]]. It depicts [[Old Empire]] at its greatest. It seems that the [[Shield Mountains]] is the border. And depicted in the back. It seems like the [[Old Empire]] pressured all monsters back behind these mountains to expand their territory. The steel door seems to be frozen and [[Atrocious]] nearly got frozen trying to touch it.
+
+The party went back to the room with the skeleboys for a long rest but we set up the trap at the sarcophasus which spawned a wraith. After the fight the sarcophasus has nice clothing, a silver/gold crown with a ruby in it and a longsword. [[Atrocious]] grabs the crown and puts it inside hes bag of holding and he grabs the clothing as well. The sword is still in the sarcophasus because it is cursed. The crown has a conjuration aura. The party held a long rest and after the rest [[Atrocious]] also grabbed the longsword and puts it in the bag of holding.
+
+The party went back to the steel door, eldritch blasted that mofo and we are at the entrance of giant room. This room has a ice globe in the middle, a balustrade around the room with some frozen bodies on it. It has 6 giant onyx's (like the ice room) with blue runes on it. [[Narak]] used a mage hand with robes to drag a body towards him and tried to speak with them with speak of death. Did not work. [[Narak]] casted a fireball at the sphere but over the distance the fire was doushed and impact did nothing. During that fireball he got grappled by the undead body underneath him and the fight has started against 6 undead. The fight continued with some pillars being destroyed and that cracked ice sphere in the centre. A giant wraith looking king was inside together with still big but smaller wraiths. The King was banished for a round and had some struggles with the fight. We managed to kill every enemy and saved 1 pillar of the 6. During the fight [[Atrocious]] bag of holding broke by the cursed sword that was used by the King. All stuff inside was all over the place including the gold.
+
+6892 total gold on ground
+2400 on [[Atrocious]]
+4492 on [[Narak]]
+
+After fight [[Atrocious]] looted the hero looking dead one in the centre and he contained the following items:
+- Scroll of devine judgement (flamestrike)
+- Healing elixer of the sun (superior healing + removal blindness & poison)
+- Prayer beads of the sun lord (Every bead can bless lv1/lesser restoration lv2/cure wounds lv1)
+- Context of radiant oath (prayer book), part journals, part biddings. Contains doctrine on [[Pelor]]. Contains conversations with the hero/bodies mentor. His mentor is Sir [[Aldric Sunblade]].
+
+TODO
+- Skeleboys at portal area loot
+- Add custom items above
+- Identify 'Fansy/Pansy clothes from Sarcophasus'
+- Identify 'Gold/Silver crown with ruby from Sarcophasus'
