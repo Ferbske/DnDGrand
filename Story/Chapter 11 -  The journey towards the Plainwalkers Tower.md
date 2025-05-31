@@ -3,3 +3,8 @@ We entered the ritual room and [[Leylin]] prepared the teleportation spell. We g
 After an hours walking we see farms and roads. In the distance we see people working. Not a lot of them.
 
 After a full day of walking late in the evening we setup 2 tents and [[Atrocious]] did camouflage the golem. During the nights watch a shadow was seen moving back and forward. It was a big bear and on the 3rd watch [[Lemuru]] used the left over food to lure him away and give him the remaining food. 
+
+___
+TODO : 
+- Identify 'Fansy/Pansy clothes from Sarcophasus'
+- Identify 'Gold/Silver crown with ruby from Sarcophasus'

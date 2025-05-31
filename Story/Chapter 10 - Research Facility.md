@@ -63,8 +63,5 @@ The party held a long rest and upon waking up we find [[Kurgan]] being here in [
 TODO
 - Skeleboys at portal area loot
 	- Found pickaxes and ragged clothing
-- Add custom items above
-- Identify 'Fansy/Pansy clothes from Sarcophasus'
-- Identify 'Gold/Silver crown with ruby from Sarcophasus'
 - Identify 'White holy sword that [[Narak]] has'
 	- Is handed over to [[Highlord Marshall]]
