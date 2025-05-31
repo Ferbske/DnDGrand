@@ -1,1 +1,1 @@
-Big baddy from [[The Empire]] - Archmage
+![[Antropos.png]]Big baddy from [[The Empire]] - Archmage
