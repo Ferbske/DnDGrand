@@ -1,0 +1,4 @@
+A legend of a long forgotten era way before the old civilizations.
+It is said that a mage has gotten so powerfull that he was able to walk along different worlds. Just his knowledge alone became a golden era for humans. Legend tells that he created a mage tower and like every mage tower it contains a lot of power. The legend says it is still somewhere. [[Highlord Marshall]] tells us that he knows the location of the tower.  The tower was sealed before and even immortals could not open the tower. Somehow it is now opened after the party got back from the research facility ([[Chapter 10 - Research Facility]]). 
+
+According to [[Highlord Marshall]] it is located [[The Empire]].

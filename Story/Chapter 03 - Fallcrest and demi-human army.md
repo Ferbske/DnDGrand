@@ -1,0 +1,5 @@
+[[Highlord Marshall]] and [[Lord Warden Feral]] were informed by what we found. And we needed to go to [[Fallcrest]] because there is a army coming from the east that consist of multiple wild races. Its an army against slavery. [[Saladin]] is leading the army. We send [[Kurgan]] as an emissary for a diplomatic talk. The army consists mostly of demi-humans.
+
+After a while the party left towards the camp where the army is as well where we encountered a loxodon called [[Aldon]] and a tabaxi names [[Twig]]. We sneaked into the camp where [[Geist]] had an epic entrance in the tent with all the leaders, including [[Saladin]]. They don't want to attack and are not associated with [[The Empire]] anymore. We got [[Aldon]] and [[Twig]] with an additional 10 warriors as a warparty. We went to the kobalt stronghold to get [[Kurgan]].
+
+After that we went back to [[Fallcrest]] and went through the portal which leads to the catacombs of [[Gamblion]]. 

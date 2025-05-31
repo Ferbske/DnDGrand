@@ -1,1 +1,1 @@
-A marshal working for [[Highlord Marshal]]
+A marshal working for [[Highlord Marshall]]

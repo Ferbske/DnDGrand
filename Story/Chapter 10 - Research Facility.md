@@ -1,10 +1,13 @@
+We found information that the facility was a secret site that was converted it to hide the fact it contained something very powerfull.
+
+___
 In [[Gilead]] we went shopping.
 
 [[Terilin]] sold blue dragon teeth/fangs/heart/blood to the alchemist of [[Gilead]] and he now owes [[Terilin]] for 17.000.
 
 [[Narak]] traded blue dragon hide for a immovable rod + 5.000 gold. He is looking for an arcane eye. 
 
-[[Atrocious]] went to the [[Highlord Marshal]] and asked for a dagger. He had a dagger of silent demise and wanted to trade it for the dagger +1. [[Atrocious]] tried to deceive him but failed and the trade is made.
+[[Atrocious]] went to the [[Highlord Marshall]] and asked for a dagger. He had a dagger of silent demise and wanted to trade it for the dagger +1. [[Atrocious]] tried to deceive him but failed and the trade is made.
 
 The party got teleported back to [[Gamblion]] and took a day for some other preparations that [[Terilin]] wanted (OC discussion between Mila and Nico).
 After that day we used the portal to the research facility. We entered an entirely small dark room and the small corridor out of the room is collapsed. [[Atrocious]] tries to light a torch but fails because of [[Narak]]. All non-magical fire is automatically extinquished. [[Terilin]] uses the wand of secrets to see secrets and notices a secret tunnel further behind the collapsed corridor. The shieldgolem excavates the collapsed corridor and as soon as there is a small whole that fits [[Atrocious]] he slithers through it. On the other side he sees a platform in a large rectangular room. Its a unfinished room being carved out with corpses on the ground. I see a small humanoid with a big backpack rummiging through the corpses. [[Atrocious]] tries to get closer and on the 30ft mark the humanoid notices him and shouts some things and all of a sudden there is a fog. This fog is dispelled by [[Narak]] and the humanoid is gone. There now are 3 miner skeleboys, 2 guard skeleboys and some kind of undeath spellcaster.
@@ -41,9 +44,27 @@ After fight [[Atrocious]] looted the hero looking dead one in the centre and he 
 - Healing elixer of the sun (superior healing + removal blindness & poison)
 - Prayer beads of the sun lord (Every bead can bless lv1/lesser restoration lv2/cure wounds lv1)
 - Context of radiant oath (prayer book), part journals, part biddings. Contains doctrine on [[Pelor]]. Contains conversations with the hero/bodies mentor. His mentor is Sir [[Aldric Sunblade]].
+	- Handed to [[Lemuru]]
+
+We casted speak with dead on the hero wraith.
+- What was sealed -> [[Forsaken King]]
+- Why was he sealed away -> He betrayed [[Old Empire]]
+- Pillar was still glowing does that mean it is still here -> I dont know
+- Why were you sealed in it as well -> I wasn't
+- Did you cast/created the seal -> no
+
+After that we returned to the portal room and teleported back to [[Gilead]]. On arrival we see 2 guards and 1 has a message of [[Highlord Marshall]]. He had something very urgent. We follow the guard back to the main part of the castle to [[Highlord Marshall]]. Upon arrival we feel a heavy weight/pressure on our minds. After a second a 2nd more powerfull pressure on our minds sweeps away the initial one. But this one is a more pleasant one. Walking through the gate we see lord tincan ([[Aldric Sunblade]]). He speaks to [[Narak]] and tell him that we have his deciples sword. And asks what we did with him. [[Atrocious]] also waves the book at him. Most of us are forced to kneel. [[Highlord Marshall]] steps in and interrupts [[Aldric Sunblade]] and goes full force against him and tell him his place. Within a split second the square where were at is cracked and see a path of destruction in 1 direction. [[Aldric Sunblade]] is flow all the way back flying over the city and his armor is cracked. [[Highlord Marshall]] is standing next to us weapons at hand. The [[Plainwalkers Tower]] has open [[Aldric Sunblade]] said. [[Highlord Marshall]] replies that he knows.
+
+[[Highlord Marshall]] vaguely remembers the [[Forsaken King]] but cant recall anything specific.
+[[Highlord Marshall]] thinks that the tower is sentient and has opened by itself and has [[Cabourn]] has entered the tower. 
+
+The party held a long rest and upon waking up we find [[Kurgan]] being here in [[Gilead]] as well. He was called by [[Highlord Marshall]]. [[Leylin]] was also called to teleport us behind [[The Empire]]'s border. He is very excited to go the the [[Plainwalkers Tower]]. [[Leylin]] obtained 2 scrolls of dimension lock.
 
 TODO
 - Skeleboys at portal area loot
+	- Found pickaxes and ragged clothing
 - Add custom items above
 - Identify 'Fansy/Pansy clothes from Sarcophasus'
 - Identify 'Gold/Silver crown with ruby from Sarcophasus'
+- Identify 'White holy sword that [[Narak]] has'
+	- Is handed over to [[Highlord Marshall]]
