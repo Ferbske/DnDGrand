@@ -16,7 +16,7 @@ The plan is that [[Terilin]], [[Narak]] and [[Caehanna]] are going to stay nearb
 
 The party went back towards [[the Golden City]]. During the travel [[Leylin]] was asked to check if we are under the spell of [[The fake god]]. His spell he used was to see if were are under influence and he found traces of illusion magic on us. It is complicated magic and it seems if we were longer near the source we got influenced by it and it would have effect on us. By overcharging his spell he cleanses us from it. 
 
-Upon arrival at [[the Golden City]] we were guided towards [[Luevin]] and [[Cassian]]. We had to explain the situation towards them. We were suggested to go back to [[Gilead]] and we left the city in the field of crops and got teleported by [[Leylin]] again. We discussed who wanted to be immortal and [[Narak]], [[Lemuru]] and [[Atrocious]] want to. After that we went towards [[Highlord Marshal]]. 
+Upon arrival at [[the Golden City]] we were guided towards [[Luevin]] and [[Cassian]]. We had to explain the situation towards them. We were suggested to go back to [[Gilead]] and we left the city in the field of crops and got teleported by [[Leylin]] again. We discussed who wanted to be immortal and [[Narak]], [[Lemuru]] and [[Atrocious]] want to. After that we went towards [[Highlord Marshall]]. 
 
 To become a [[Immortals]]
 - Worship a being

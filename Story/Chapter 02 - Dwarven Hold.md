@@ -1,0 +1,13 @@
+The party made their way to the [[Dwarven Hold]] before all the energy is dissipated to imbue something each. The hold of a blue adult dragon was in the mountains. Once we entered we found a darkened foggy room where we encountered the blue adult dragon. We slayed him and [[Terilin]] received the hearts and soul. After killing the dragon we took a long rest and got captured  by [[The Empire]]. We escapes, found our gear and killed like 40 guards. In the [[Dwarven Hold]] we freed the youngest dwarf and the rest of the party. Oldest dwarf and arch mage [[Leylin]] are still missing. We entered the hold, killed 2 soldiers and took their clothing for disguises. We chopped them into pieces and discarded them into the toilet.
+
+We persuaded the guards at the gate and found out that the superior was on the 2nd story of a hexagonal shaped dome. The dome is a temple. Underneath it is a prison that can hold 1 person. The dwarf families are hold captive underneath the hold. In total there a re 87 patrols, 4 mages and 300 soldiers in the outer hold. [[Antropos]] expects a report within 16 hours. We went to the [[Temple of Moradin]] and found [[Antropos]] in the middle of the room doing an incantation with the 5 gems floating above his head. We interrupted his incantation and fought him. During the fight we freed [[Leylin]] from that room and fled to the outer wall. [[Leylin]] teleported us after we escaped to [[Hydron]], the city of the dwarfs. 
+
+[[Highlord Marshall]] was making his way to [[Hydron]]. Here we went to [[Baron Bardok]], he has pledged his loyalty to [[Terilin]] but the elders might not. We found out that on top of the mountain there is a plateau where the dwarf god is praised and there is a spiral staircase into the mountain that leads to [[Dwarven Hold]]. 
+
+The party took off towards the mountain from [[Hydron]] to attack the hold with an army of dwarfs. The plan is to polymorph ourselves up the mountain and make preparations with [[Leylin]]. Meanwhile [[Geist]] enters the hold and starts the dwarven revolution. On the plateau a glyph of warding was placed, everyone drank a potion of heroism and [[Kurgan]] drank a potion of growth. We defeated [[Antropos]].
+
+The party entered the stronghold and freed the dwarfs. Peace is back in the hold and the army is gone. We imbued our items.
+
+Then the party went to [[Baron Bardok]] and he was pleased and is willing to help us.
+
+[[Geist]] used an old teleport circle in the stronghold to investigate the other side of the teleport. We ended up in the catacombs of [[Gamblion]]. In these catacombs we found a court wizard names [[Maverick]] doing some kind of research. He was guarded by it seemed like undeath guards. 

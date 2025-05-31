@@ -1,1 +1,1 @@
-Last name [[Gamblion]] and married to [[Highlord Marshal]].
+Last name [[Gamblion]] and married to [[Highlord Marshall]].

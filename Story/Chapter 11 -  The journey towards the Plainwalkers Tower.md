@@ -1,0 +1,25 @@
+We entered the ritual room and [[Leylin]] prepared the teleportation spell. We get sucked into the spacial point and fall on the ground within a field of grass in the middle of butt fuck no where. Time of day is still early morning. [[Leylin]] does not seem to be nearby. We arrived not in the location we wanted but nearby. We arrived south of [[Teirm]] and close to the main city which is south of us within the mountains called [[Urubaen]]. We need to go closer towards [[Teirm]] for the towers location.
+
+After an hours walking we see farms and roads. In the distance we see people working. Not a lot of them.
+
+After a full day of walking late in the evening we setup 2 tents and [[Atrocious]] did camouflage the golem. During the nights watch a shadow was seen moving back and forward. It was a big bear and on the 3rd watch [[Lemuru]] used the left over food to lure him away and give him the remaining food. Rest of the evening nothing happened. The next morning we had breakfast and continued our travels. [[Atrocious]] used his skillsets to navigate proficiently towards the tower. In the distance we see a tower that matches the description but it seems smaller then expected. While moving towards it it doesn't seem to get closer. The distance seems te stay the same. After trying many things we do not seem to get closer to the tower. After a bit we see a person in red robes walking over the pathway towards the tower. Some attempts were made to dispell the magic but with no success. [[Narak]] folds in ways he shouldn't and takes quite a bit of damage. We went towards the path and followed it to the tower. It seems like an old watch tower. 
+
+Knocked on the door and we hear a voice saying we can come in. Upon opening the door we see a big long cylindrical room (80 feet across). With tables and a lounging space. Seems like spectres fade in and out through the room. In a lounge chair the red robe person is sitting. It looks like [[Antropos]] from the [[Dwarven Hold]]. But he is an artificial being/the sentient of the tower who took the appearances of someone who has entered the tower before. So [[Antropos]] has entered the tower before. He admitted that he opened the tower because a key is actived. He does not have a solid answer when [[Antropos]] entered the tower. [[Antropos]] completed the 2nd trial then left.
+
+He does not know how the keys look like but 2 keys are within this world. And one key is activated but he does not know which key (if its of our world of not). There are 7 keys in total but they all do the same. A key is only used to open the tower door nothing more.
+
+There are several people that entered the tower but only [[Antropos]] has ever left. Some holy guys and pale guy in robes entered. The master of the tower is still alive according of sentient. The sentient tells us that his master is called master and he is called 'Djinnie'.
+
+[[Kurgan]] started the first trial alone.
+Priests of [[Pelor]] are going through the trial aswell.
+[[Cabourn]] is in the basement.
+
+[[Kurgan]] finished reading a shit load of books and completed his trial.
+After that the rest of the party also went in for their trial. In the room we see a kinds of spectres floating around the room with different kind of armour and weapons and armed to fight. We fought all spectres and everytime we killed a spectre we hear them shouting stuff of [[Pelor]]. After killing all there was a single spectre left full emotionless stationary. We checked him out and poked it which made the entire room clear. We are in the circular clear area with a single corridor to a door. It seems to be a centre of some sort of maze. [[Narak]] tried to open the door with mage hand but the hand vanished when reaching the door. There were 2 more enemies hiding and got killed by [[Terilin]]'s fireball and the door unlocked.
+
+We returned to the room with [[Antropos]] and he congratulated us for completing the first trial. We were in the first trial 27 hours and 34 minutes. Time flows slower in side the tower then outside. So its better to stay inside the tower then outside. On the otherhand the time within trials moves way faster then anywhere else. 
+
+___
+TODO : 
+- Identify 'Fansy/Pansy clothes from Sarcophasus'
+- Identify 'Gold/Silver crown with ruby from Sarcophasus'
