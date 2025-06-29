@@ -1,1 +1,1 @@
-Baron of [[Hydron]].
+Baron of [[Hydron (Dwarven Stronghold)]].
