@@ -1,1 +1,1 @@
-Hexagonal temple in [[Dwarven Hold]].
+Hexagonal temple in [[Hydron (Dwarven Stronghold)]].
